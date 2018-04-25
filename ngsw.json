@@ -1,0 +1,36 @@
+{
+  "configVersion": 1,
+  "index": "angular5-pwa-demo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "angular5-pwa-demo/favicon.ico",
+        "angular5-pwa-demo/index.html",
+        "angular5-pwa-demo/inline.318b50c57b4eba3d437b.bundle.js",
+        "angular5-pwa-demo/main.1a93c049a68978d9951b.bundle.js",
+        "angular5-pwa-demo/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
+        "angular5-pwa-demo/styles.ac89bfdd6de82636b768.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "angular5-pwa-demo/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "angular5-pwa-demo/main.1a93c049a68978d9951b.bundle.js": "3a72a847aae0d6ab664eb7ec4c99cf8b9fcc7296",
+    "angular5-pwa-demo/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
+    "angular5-pwa-demo/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "angular5-pwa-demo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "angular5-pwa-demo/index.html": "d34ff9a23558be26f35f7b8f98662bdfaed819e1"
+  }
+}
