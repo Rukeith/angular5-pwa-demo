@@ -3,18 +3,14 @@
   "project": {
     "name": "pwa-angular"
   },
-  "assets": [
-    "assets",
-    "favicon.ico",
-    "manifest.json"
-  ],
   "apps": [
     {
       "root": "src",
       "outDir": "dist",
       "assets": [
         "assets",
-        "favicon.ico"
+        "favicon.ico",
+	"manifest.json"
       ],
       "index": "index.html",
       "main": "main.ts",
